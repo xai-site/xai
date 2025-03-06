@@ -21,8 +21,8 @@
 
 | 网站地址                  | 支持的AI模型          | 是否免费 | 是否需注册 | 稳定性 | 独特优势            |
 |---------------------------|-----------------------|----------|------------|--------|---------------------|
-| [chat.yixiaai.com](https://chat.yixiaai.com) | Grok, GPT-4, GPT-o1、DeepSeek, Claude Sonnet | 是       | 无需注册   | ★★★★★  | Grok网页版+绘图功能 |
-| [chat.lify.vip](https://chat.lify.vip)       | GPT-4, DeepSeek, Midjourney   | 是       | 无需注册   | ★★★★★  | 官网般流畅体验     |
+| [chat.yixiaai.com](https://chat.yixiaai.com) | Grok, GPT-4, GPT-o1、DeepSeek, Claude 3.7 Sonnet | 是       | 无需注册   | ★★★★★  | Grok网页版+绘图功能 |
+| [chat.lify.vip](https://chat.lify.vip)       | GPT-4, DeepSeek, Claude 3.7 Sonnet、Midjourney   | 是       | 无需注册   | ★★★★★  | 官网般流畅体验     |
 | [lanjing.ai](https://lanjing.ai)             | GPT-4, GPT-4o、Claude Sonnet                | 是       | 无需注册   | ★★★★☆  | 提供入门教程       |
 | [cgn.lify.vip](https://cgn.lify.vip)         | GPT-4, GPT-3.5              | 是       | 无需注册   | ★★★★☆  | 稳定备用选择       |
 
