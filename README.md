@@ -2,7 +2,7 @@
 
 > **马斯克的xAI现已推出Grok网页版，国内无需翻墙即可畅玩，2025最新体验攻略！**
 >
->**发布时间：2025/09/22**
+>**发布时间：2025/10/04**
 
 
 **[立即体验Grok网页版](https://xsimplechat.com)**  
@@ -21,8 +21,8 @@
 
 | 网站地址                  | 支持的AI模型          | 是否免费 | 是否需注册 | 稳定性 | 独特优势            |
 |---------------------------|-----------------------|----------|------------|--------|---------------------|
-| [chat.yixiaai.com](https://xsimplechat.com) | Grok, GPT-5, GPT-o1、DeepSeek, Claude 4 Sonnet、Gemini、AI PPT | 是       | 无需注册   | ★★★★★  | Grok网页版+绘图功能 |
-| [ai.lanjingai.org](https://ai.lanjingai.org)       | GPT-5, DeepSeek, Claude 4 Sonnet、Midjourney、Nano Banana   | 是       | 无需注册   | ★★★★★  | 官网般流畅体验     |
+| [chat.yixiaai.com](https://xsimplechat.com) | Grok, GPT-5, GPT-o1、DeepSeek, Claude 4.5 Sonnet、Gemini、AI PPT | 是       | 无需注册   | ★★★★★  | Grok网页版+绘图功能 |
+| [ai.lanjingai.org](https://ai.lanjingai.org)       | GPT-5, DeepSeek, Claude 4.5 Sonnet、Midjourney、Nano Banana   | 是       | 无需注册   | ★★★★★  | 官网般流畅体验     |
 | [lanjing.ai](https://lanjing.ai)             | GPT-5, GPT-4o、Claude Sonnet                | 是       | 无需注册   | ★★★★☆  | 提供入门教程       |
 | [cgn.lify.vip](https://cgn.lify.vip)         | GPT-5, GPT-4              | 是       | 无需注册   | ★★★★☆  | 稳定备用选择       |
 
